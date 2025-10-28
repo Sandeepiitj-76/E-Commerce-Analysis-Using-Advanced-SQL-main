@@ -132,8 +132,8 @@ cd E-Commerce-Analysis-Using-Advanced-SQL
 ---
 
 ## 👤 **Author**  
-🔹 **Ram Charan**  
-📧 **vadthyaramcharan369@gmail.com**  
-🔗 **GitHub: [ramcharan0308](https://github.com/ramcharan0308)**  
+🔹 **Sandeep**  
+📧 **vadthyasandeep76@gmail.com**  
+
 
 If you found this project useful, **⭐ Star this repository** and feel free to contribute! 🚀
